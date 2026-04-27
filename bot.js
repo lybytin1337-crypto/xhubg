@@ -4,8 +4,8 @@ const fs = require('fs');
 // ========================
 //  НАСТРОЙКИ
 // ========================
-const TOKEN = process.env.BOT_TOKEN || 'ВСТАВЬ_ТОКЕН_БОТА';
-const XAI_API_KEY = process.env.XAI_API_KEY || 'ВСТАВЬ_XAI_КЛЮЧ';
+const TOKEN = process.env.BOT_TOKEN || '8764368268:AAF_cyWYFYvaqBPCZzJl3eFyKePk64lbwWo';
+const XAI_API_KEY = process.env.XAI_API_KEY || 'xai-gBEhAOihQBdjkhnNqWC7TSLRqwXvsT8rZO5bPKxXYAMGhpA6LKkVpggZXn5SgjQ7vU85feZEGVuRulIZ';
 const DATA_FILE = './chat_memory.json';
 
 const REPLY_CHANCE = 0.1;
